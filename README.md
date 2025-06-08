@@ -57,5 +57,4 @@ Pranjal Garg (2023). Prediction of Anxiety Using Machine Learning: A Study Using
 
 ## 💬 Contact
 For questions or collaborations:
-- **Email:** pranjalgarg@example.com (replace with your actual contact)
-- **LinkedIn/GitHub:** (insert link)
+- **Email:** garg.pranjal2@gmail.com  
