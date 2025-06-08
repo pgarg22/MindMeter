@@ -1,0 +1,26 @@
+,Feature,Pearson Coefficent Selector,Logistic Regression Selector,Random Forest Selector,Extra Tree Selector,Chi-2 Selector,Forward Feature Selector,Backward Feature Selector,Mutual Info Selector,Factor Analysis Selector,PCA selector,Total
+1,RRV_ApEn,True,True,True,True,True,True,True,True,False,False,8
+2,RRV_SD2SD1,False,False,True,True,False,True,True,False,True,True,6
+3,RRV_VLF,False,True,True,True,False,False,False,True,False,True,5
+4,RRV_LFn,False,False,True,True,False,True,True,True,False,False,5
+5,RRV_HFn,True,False,True,True,True,False,False,True,False,False,5
+6,RRV_MadBB,True,True,False,False,True,False,False,False,False,False,3
+7,RRV_LF,True,True,False,False,True,False,False,False,False,False,3
+8,RSP_Rate_Mean,False,True,False,False,False,False,False,False,False,True,2
+9,RSP_Phase_Duration_Ratio,False,False,False,False,False,False,False,False,True,True,2
+10,RRV_SampEn,True,False,False,False,False,False,False,True,False,False,2
+11,RRV_MeanBB,False,False,False,False,False,True,True,False,False,False,2
+12,RRV_HF,False,False,False,False,True,False,False,False,True,False,2
+13,RRV_CVBB,False,False,False,False,False,True,True,False,False,False,2
+14,RRV_SDBB,False,False,False,False,False,False,False,False,False,True,1
+15,RRV_RMSSD,False,False,False,False,False,False,False,False,True,False,1
+16,RRV_MedianBB,False,False,False,False,False,False,False,False,True,False,1
+17,RSP_Phase_Duration_Inspiration,False,False,False,False,False,False,False,False,False,False,0
+18,RSP_Phase_Duration_Expiration,False,False,False,False,False,False,False,False,False,False,0
+19,RSP_Amplitude_Mean,False,False,False,False,False,False,False,False,False,False,0
+20,RRV_SDSD,False,False,False,False,False,False,False,False,False,False,0
+21,RRV_SD2,False,False,False,False,False,False,False,False,False,False,0
+22,RRV_SD1,False,False,False,False,False,False,False,False,False,False,0
+23,RRV_MCVBB,False,False,False,False,False,False,False,False,False,False,0
+24,RRV_LFHF,False,False,False,False,False,False,False,False,False,False,0
+25,RRV_CVSD,False,False,False,False,False,False,False,False,False,False,0

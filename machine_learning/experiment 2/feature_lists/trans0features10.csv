@@ -1,0 +1,26 @@
+,Feature,Pearson Coefficent Selector,Logistic Regression Selector,Random Forest Selector,Extra Tree Selector,Chi-2 Selector,Forward Feature Selector,Backward Feature Selector,Mutual Info Selector,Factor Analysis Selector,PCA selector,Total
+1,RRV_ApEn,True,True,True,True,True,True,True,True,True,False,9
+2,RRV_SD2SD1,True,False,True,True,False,True,True,False,True,True,7
+3,RRV_HFn,True,True,True,True,True,False,False,True,False,True,7
+4,RRV_LFn,False,False,True,True,False,True,True,True,True,False,6
+5,RRV_LF,True,True,True,True,True,True,False,False,False,False,6
+6,RSP_Phase_Duration_Ratio,False,True,False,False,False,True,True,False,True,True,5
+7,RSP_Phase_Duration_Inspiration,True,True,False,True,True,True,False,False,False,False,5
+8,RRV_VLF,False,False,True,True,False,False,False,True,True,True,5
+9,RRV_SampEn,False,False,True,True,False,False,True,False,True,True,5
+10,RRV_MedianBB,False,True,False,False,False,True,True,True,True,False,5
+11,RRV_MadBB,True,True,True,True,True,False,False,False,False,False,5
+12,RSP_Amplitude_Mean,False,True,False,False,False,True,True,False,False,True,4
+13,RRV_SDBB,True,False,False,False,True,False,False,True,False,True,4
+14,RRV_RMSSD,True,False,False,False,True,False,False,True,True,False,4
+15,RRV_MeanBB,False,True,True,False,False,True,True,False,False,False,4
+16,RRV_HF,True,False,False,False,True,False,False,False,True,True,4
+17,RRV_CVSD,False,False,True,False,False,False,True,True,False,False,3
+18,RSP_Rate_Mean,False,True,False,False,False,False,False,False,False,True,2
+19,RRV_SDSD,False,False,False,False,True,False,False,True,False,False,2
+20,RRV_SD2,True,False,False,False,True,False,False,False,False,False,2
+21,RRV_MCVBB,False,False,False,False,False,True,False,False,True,False,2
+22,RRV_LFHF,False,False,False,True,False,False,False,False,False,True,2
+23,RSP_Phase_Duration_Expiration,False,False,False,False,False,False,True,False,False,False,1
+24,RRV_SD1,False,False,False,False,False,False,False,True,False,False,1
+25,RRV_CVBB,False,False,False,False,False,False,False,False,False,False,0
